@@ -1,4 +1,4 @@
-lokka-auto_pagerize
+Lokka AutoPagerize
 ===================
 
 ### Enables AutoPagerize in Lokka.
@@ -8,9 +8,10 @@ lokka-auto_pagerize
 
 ### How to install
 
+```
 cd $LOKKA_ROOT/public/plugins
 git clone git://github.com/morygonzalez/lokka-auto_pagerize.git
-
+```
 
 ### How to use
 
